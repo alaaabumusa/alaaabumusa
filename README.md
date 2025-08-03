@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻 Hello My Name is Alaa Abu Musa<br>⌨ I am Studying Computer Systems Engineering <br>📫 How to reach me aalaabumussa@gmail.com
+👋🏻 Hello My Name is Alaa Abu Musa<br>⌨ I am Studying Computer Systems Engineering <br>
 
 
 
